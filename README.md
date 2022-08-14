@@ -1,10 +1,11 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Sandip Shrestha</h1>
 <h3 align="center">A passionate graphic designer from Nepal</h3>
-<img align=“right” alt=“Coding” width=“400” src=“https://c.tenor.com/NOYF3f82b_gAAAAS/programmer.gif”>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andipstha&label=Profile%20views&color=0e75b6&style=flat" alt="andipstha" /> </p>
 
-<p align="left"> <a href="https://twitter.com/andipstha" target="blank"><img src="https://img.shields.io/twitter/follow/andipstha?logo=twitter&style=for-the-badge" alt="andipstha" /></a> </p>
+<p align="left"> <a href="https://twitter.com/andip_stha" target="blank"><img src="https://img.shields.io/twitter/follow/andipstha?logo=twitter&style=for-the-badge" alt="andipstha" /></a> </p>
 
 - 🌱 I’m currently learning **C#**
 
@@ -12,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/andipstha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="andipstha" height="30" width="40" /></a>
+<a href="https://twitter.com/andip_stha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="andipstha" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/andipstha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andipstha" height="30" width="40" /></a>
 <a href="https://fb.com/andipstha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="andipstha" height="30" width="40" /></a>
 <a href="https://instagram.com/andipstha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andipstha" height="30" width="40" /></a>
