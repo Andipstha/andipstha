@@ -5,7 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andipstha&label=Profile%20views&color=0e75b6&style=flat" alt="andipstha" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andipstha" alt="andipstha" /></a> </p>
+<!--- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andipstha" alt="andipstha" /></a> </p> --->
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=andipstha&theme=onedark)](https://github.com/andipstha/github-profile-trophy)
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
