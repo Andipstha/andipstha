@@ -16,17 +16,17 @@
 
 <p align="left"> <a href="https://twitter.com/andip_stha" target="blank"><img src="https://img.shields.io/twitter/follow/andip_stha?logo=twitter&style=for-the-badge" alt="andip_stha" /></a> </p>
 
-- 🔭 I’m currently working on [C++ miniProject](https://github.com/Andipstha/theFusion-Project-II)
+- 🔭 I’m currently working on [C# Project](https://github.com/Andipstha/cSharp-Project-III)
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at [andipstha.github.io](andipstha.github.io)
+- 👨‍💻 All of my projects are available at [sandipshrestha0.com.np](https://sandipshrestha0.com.np/)
 
 - 📝 I regularly write articles on [https://andipstha.blogspot.com](https://andipstha.blogspot.com)
 
 - 📫 How to reach me **sandip.stha120@gmail.com**
 
-- 📄 Know about my experiences [andipstha.github.io](andipstha.github.io)
+- 📄 Know about my experiences [sandipshrestha0.com.np](https://sandipshrestha0.com.np/)
 
 - ⚡ Fun fact **Beep boop. Boop beep?**
 
