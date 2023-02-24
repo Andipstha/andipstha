@@ -55,5 +55,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andipstha&show_icons=true&locale=en" alt="andipstha" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andipstha&" alt="andipstha" /></p>
-
-github
+<h2 align="center">Show some ❤️ by starring some of the repositories!</h2>
