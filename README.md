@@ -7,8 +7,8 @@
 </h1>
 
 <p align="center">
-<a href="https://www.sandipshrestha0.com.np" target="_blank">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
+<a target="_blank" href="https://www.sandipshrestha0.com.np" >
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png" />
 </a>
 <a href="https://www.linkedin.com/in/andipstha/" target="_blank">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
@@ -31,7 +31,7 @@
 
 [![@andipstha's Holopin board](https://holopin.io/api/user/board?user=andipstha)](https://holopin.io/@andipstha)
 
-<h1 align="center">Hi 👋, I'm Sandip Shrestha</h1>
+<!-- <h1 align="center">Hi 👋, I'm Sandip Shrestha</h1> -->
 <!-- <h3 align="center">A passionate graphic designer from Nepal</h3> -->
 
 
