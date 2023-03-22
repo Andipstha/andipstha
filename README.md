@@ -7,22 +7,22 @@
 </h1>
 
 <p align="center">
-<a href="https://www.sandipshrestha0.com.np">
+<a href="https://www.sandipshrestha0.com.np" target="_blank">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
 </a>
-<a href="https://www.linkedin.com/in/andipstha/">
+<a href="https://www.linkedin.com/in/andipstha/" target="_blank">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
 </a>
-<a href="https://andipstha.medium.com">
+<a href="https://andipstha.medium.com" target="_blank">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845679367.png"/>
 </a>
-<a href="https://dev.to/andipstha">
+<a href="https://dev.to/andipstha" target="_blank">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png"/>
 </a>
-<a href="https://twitter.com/andipstha">
+<a href="https://twitter.com/andipstha" target="_blank">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
 </a>
-<a href="https://www.instagram.com/andip_stha/">
+<a href="https://www.instagram.com/andip_stha/" target="_blank">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
 </p>
@@ -89,7 +89,7 @@
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=andipstha&" alt="andipstha" /></p>
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/andipstha" target="blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="andip_stha" /></a>
+  <a href="https://www.buymeacoffee.com/andipstha" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="andip_stha" /></a>
 </p>
 
 <p align="center">
